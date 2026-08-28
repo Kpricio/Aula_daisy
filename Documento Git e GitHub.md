@@ -128,9 +128,9 @@ Você pode adicionar mais de 1 arquivo ao mesmo tempo
 Git add main.py calculadora.py
 ```
 
-Outra forma de colocar mais de 1 arquivo na "fila" é com "git add ." com isso todos os arquivos da pasta e subpastas 
+Outra forma de colocar mais de 1 arquivo na "fila" é com "git add ." com isso todos os arquivos da pasta e subpastas serão
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI1OTE1NjgsOTgyNTY5Njk2LC03OT
-I0MjUzMSwtMTYwOTkyODYxNSwtMTUzMTExOTkzNSwxNTAyNjk4
-MDMsMTUyMzk2MDU2MF19
+eyJoaXN0b3J5IjpbLTQ0MDcyMTcwNCwtMTk0MjU5MTU2OCw5OD
+I1Njk2OTYsLTc5MjQyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5
+OTM1LDE1MDI2OTgwMywxNTIzOTYwNTYwXX0=
 -->
