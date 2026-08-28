@@ -232,13 +232,13 @@ Por exemplo, você pode ver algo como:
 ```
 
 ## Git branch
-Esse é o comando relacionado às **branches (ramificações)** do Git
+Esse é o comando relacionado às **branches (ramificações)** do Git. Com ele você cria essas ramificações, para poder desenvolver códigos fora da sua main, e pode ver em qual branch está trabalhando no momento.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mzg5NzA1LC0xOTA2NjQxMjIwLC0xNT
-MwNTQ5NzA5LC05MjUxMTYwMiwtNzMxMDYyNzcwLDEwNDE1MzUx
-NiwtMTczMjQzNDM2NiwtOTU2MDUxMjExLC05ODE2NTk2MDgsLT
-IxMzc3MDQ1MTksLTg0MDExNzI1OCwyMTM5NjQwMjIxLDEzNTQ5
-MDY0MDYsLTQ5ODIzOTc0NSwzMTU2Mzg2OTYsLTg1ODA1MzY5LC
-00NDA3MjE3MDQsOTgyNTY5Njk2LC03OTI0MjUzMSwtMTYwOTky
-ODYxNV19
+eyJoaXN0b3J5IjpbMTAxMTUwMTA3NiwxMTQzODk3MDUsLTE5MD
+Y2NDEyMjAsLTE1MzA1NDk3MDksLTkyNTExNjAyLC03MzEwNjI3
+NzAsMTA0MTUzNTE2LC0xNzMyNDM0MzY2LC05NTYwNTEyMTEsLT
+k4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQwMTE3MjU4LDIxMzk2
+NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5NzQ1LDMxNTYzODY5Ni
+wtODU4MDUzNjksLTQ0MDcyMTcwNCw5ODI1Njk2OTYsLTc5MjQy
+NTMxXX0=
 -->
