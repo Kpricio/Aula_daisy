@@ -118,7 +118,9 @@ Outro exemplo seria o seguinte
 |Derrotas |Todas|Maioria|Nunca|
 
 ## Referencias e citações
-Existem diversas formas de fazer uma referencia ou citação, podendo usar o já visto nota de rodapé, mas existem algumas outras  formas de o fazer
+Existem diversas formas de fazer uma referencia ou citação, podendo usar o já visto nota de rodapé, mas existem algumas outras formas de o fazer.
+Uma dessas formas é utilizando o @ pra criar essa citação, com a sintaxe ficando [@Código].
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTk2NjM0NCwxNjYxMzQ0Nzk1XX0=
+eyJoaXN0b3J5IjpbMjI3NjIxMjA2LDE2NjEzNDQ3OTVdfQ==
 -->
