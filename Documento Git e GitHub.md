@@ -245,7 +245,7 @@ Com esse código será mostrado em qual branch você está trabalhando, ficando 
 * main
   outra_branch
 ```
-
+Outra variação do Git branch é o:
 ```
 Git branch Nova_branch
 ```
@@ -255,7 +255,7 @@ Aqui você estará criando uma nova branch, no entanto você não irá mudar par
 
 #### Git log --oneline
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM2OTY3MzUsMTk4OTAxODA5NywxMT
+eyJoaXN0b3J5IjpbLTE2ODAxNDUwNTMsMTk4OTAxODA5NywxMT
 QzODk3MDUsLTE5MDY2NDEyMjAsLTE1MzA1NDk3MDksLTkyNTEx
 NjAyLC03MzEwNjI3NzAsMTA0MTUzNTE2LC0xNzMyNDM0MzY2LC
 05NTYwNTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQw
