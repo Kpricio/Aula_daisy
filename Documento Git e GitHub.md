@@ -106,13 +106,17 @@ Quando usado o **Git add** você está colo colosalvando uma parte para ser alte
 ```
 Git add main.py
 ```
-Depois de dar add Com essa ação imagine como uma lista
+Depois de dar add imagine essa ação como uma lista:
 ```
-Lista de commit:
-
+Lista de para commit:
 - main.py
 ```
+E caso queira adicionar mais algum arquivo basta fazer mais um Git add
+```
+Git add main.py
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDg5NTg5OCwtMTUzMTExOTkzNSwxNT
+eyJoaXN0b3J5IjpbMTc2MTM4MDE5NSwtMTUzMTExOTkzNSwxNT
 AyNjk4MDMsMTUyMzk2MDU2MF19
 -->
