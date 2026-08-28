@@ -134,10 +134,14 @@ Outra forma de colocar mais de 1 arquivo na "fila" é com "git add ." com isso t
 Git add .
 ```
 
-Também podemos escolher arquivos de um tipo especi
+Também podemos escolher arquivos de um tipo especifico para serem adicionados.
+```
+git add *.py
+```
+Neste exemplo estamos adicionando apenas arquivos em python
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NjM4Njk2LC0xNjcxODIzOTAzLC04NT
-gwNTM2OSwtNDQwNzIxNzA0LDk4MjU2OTY5NiwtNzkyNDI1MzEs
-LTE2MDk5Mjg2MTUsLTE1MzExMTk5MzUsMTUwMjY5ODAzLDE1Mj
-M5NjA1NjBdfQ==
+eyJoaXN0b3J5IjpbODI1OTg3MjcxLDMxNTYzODY5NiwtODU4MD
+UzNjksLTQ0MDcyMTcwNCw5ODI1Njk2OTYsLTc5MjQyNTMxLC0x
+NjA5OTI4NjE1LC0xNTMxMTE5OTM1LDE1MDI2OTgwMywxNTIzOT
+YwNTYwXX0=
 -->
