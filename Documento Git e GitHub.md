@@ -78,7 +78,7 @@ Untracked files: #não será salvo no commit
 ### O que pode ser feito junto dele?
 Você pode simplificar ou filtrar algumas das informações que o Git status mostrará, aqui alguns desses exemplos:
 
-### Git status -s ou Git status --short
+#### Git status -s ou Git status --short
 Com esse comando o prompt de status será simplificado aparecendo assim:
 ```
  M main.py
@@ -127,12 +127,14 @@ Você pode adicionar mais de 1 arquivo ao mesmo tempo
 ```
 Git add main.py calculadora.py
 ```
+#### Git add .
 
 Outra forma de colocar mais de 1 arquivo na "fila" é com "git add ." com isso todos os arquivos da pasta e subpastas serão adicionadas a lista para serem salvas (ou commitadas)
 
 ```
 Git add .
 ```
+#### Git add *.(documento)
 
 Também podemos escolher arquivos de um tipo especifico para serem adicionados.
 ```
@@ -140,10 +142,10 @@ git add *.py
 ```
 Neste exemplo estamos adicionando apenas arquivos em python.
 
-
+Outr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODg2NDM3LC00OTgyMzk3NDUsMzE1Nj
-M4Njk2LC04NTgwNTM2OSwtNDQwNzIxNzA0LDk4MjU2OTY5Niwt
-NzkyNDI1MzEsLTE2MDk5Mjg2MTUsLTE1MzExMTk5MzUsMTUwMj
-Y5ODAzLDE1MjM5NjA1NjBdfQ==
+eyJoaXN0b3J5IjpbLTE5MTkyNjc3ODMsLTQ5ODIzOTc0NSwzMT
+U2Mzg2OTYsLTg1ODA1MzY5LC00NDA3MjE3MDQsOTgyNTY5Njk2
+LC03OTI0MjUzMSwtMTYwOTkyODYxNSwtMTUzMTExOTkzNSwxNT
+AyNjk4MDMsMTUyMzk2MDU2MF19
 -->
