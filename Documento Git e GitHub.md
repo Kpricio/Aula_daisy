@@ -240,16 +240,23 @@ O Git branch tem duas formas de ser usado
 ```
 Git branch
 ```
-Com esse cód
+Com esse código será mostrado em qual branch você está trabalhando, ficando com um asterisco na frente dela, assim:
+```
+* main
+  outra_branch
+```
+
+
+ 
 ### O que pode ser feito junto dele?
 
 #### Git log --oneline
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTAxODA5NywyMDkwMjU1MDk3LDExND
-M4OTcwNSwtMTkwNjY0MTIyMCwtMTUzMDU0OTcwOSwtOTI1MTE2
-MDIsLTczMTA2Mjc3MCwxMDQxNTM1MTYsLTE3MzI0MzQzNjYsLT
-k1NjA1MTIxMSwtOTgxNjU5NjA4LC0yMTM3NzA0NTE5LC04NDAx
-MTcyNTgsMjEzOTY0MDIyMSwxMzU0OTA2NDA2LC00OTgyMzk3ND
-UsMzE1NjM4Njk2LC04NTgwNTM2OSwtNDQwNzIxNzA0LDk4MjU2
-OTY5Nl19
+eyJoaXN0b3J5IjpbLTE0NTc1OTUzNTUsMTk4OTAxODA5NywxMT
+QzODk3MDUsLTE5MDY2NDEyMjAsLTE1MzA1NDk3MDksLTkyNTEx
+NjAyLC03MzEwNjI3NzAsMTA0MTUzNTE2LC0xNzMyNDM0MzY2LC
+05NTYwNTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQw
+MTE3MjU4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5Nz
+Q1LDMxNTYzODY5NiwtODU4MDUzNjksLTQ0MDcyMTcwNCw5ODI1
+Njk2OTZdfQ==
 -->
