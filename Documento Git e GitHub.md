@@ -102,8 +102,17 @@ Com esse comando ele mostrará a branch atual e de forma resumida assim:
 ## Git add
 Quando usado o **Git add** você está colo colosalvando uma parte para ser alterada, basicamente colocando na lista de espera para o commit. 
 
+### Como escrever:
+```
+Git add main.py
+```
+Depois de dar add Com essa ação imagine como uma lista
+```
+Lista de commit:
 
+- main.py
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE5NzYwMywtMTUzMTExOTkzNSwxNT
+eyJoaXN0b3J5IjpbMTg1MDg5NTg5OCwtMTUzMTExOTkzNSwxNT
 AyNjk4MDMsMTUyMzk2MDU2MF19
 -->
