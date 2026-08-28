@@ -39,6 +39,9 @@ Além dessas três formas de lista podemos criar listas com espaços, ficando as
 	- Segunda parte, apertando TAB para criar isso
 		- terceira parte, fazendo o mesmo que no caso anterior
 
+## Nota de rodapé
+Notas de rodapé estão aqui para ajudar com pequenas ajudas  ou informações interessantes e
+
 ## Links e imagens
 Neste setor iremos ver todas as formas de colocar links, imagens e como modifica-las
 
@@ -110,5 +113,5 @@ Outro exemplo seria o seguinte
 |Derrotas |Todas|Maioria|Nunca|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTM0NDc5NV19
+eyJoaXN0b3J5IjpbMTYwMDgwODIyNywxNjYxMzQ0Nzk1XX0=
 -->
