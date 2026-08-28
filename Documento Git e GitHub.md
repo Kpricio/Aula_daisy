@@ -169,7 +169,8 @@ Com esse código você salvará o seu ultimo commit, sem ter que salvar uma nova
 Com esse código você fará o mesmo que o código anterior, mas mantendo o nome da versão
 
 #### Git commit -v
-
+Ao usar **-v** você verá as diferenças das alterações enquanto você está preparando a mensagem do commit.
+Pode ser útil para revisar exatamente o que está prestes a ser registrado.
 
 ## Git log
 
@@ -187,7 +188,7 @@ Git log
 
 #### Git 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzY5NDIxNywtNzMxMDYyNzcwLDEwND
+eyJoaXN0b3J5IjpbMjA3MDc2NjM5MywtNzMxMDYyNzcwLDEwND
 E1MzUxNiwtMTczMjQzNDM2NiwtOTU2MDUxMjExLC05ODE2NTk2
 MDgsLTIxMzc3MDQ1MTksLTg0MDExNzI1OCwyMTM5NjQwMjIxLD
 EzNTQ5MDY0MDYsLTQ5ODIzOTc0NSwzMTU2Mzg2OTYsLTg1ODA1
