@@ -167,18 +167,18 @@ Git commit
 
 ### Como escrever:
 ```
-Git 
+Git log
 ```
 
 
 
 ### O que pode ser feito junto dele?
 
-#### Git 
+#### Git log --oneline
 
 #### Git 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODA5MjcwNSwtOTU2MDUxMjExLC05OD
+eyJoaXN0b3J5IjpbMTU4MzcyOTExNywtOTU2MDUxMjExLC05OD
 E2NTk2MDgsLTIxMzc3MDQ1MTksLTg0MDExNzI1OCwyMTM5NjQw
 MjIxLDEzNTQ5MDY0MDYsLTQ5ODIzOTc0NSwzMTU2Mzg2OTYsLT
 g1ODA1MzY5LC00NDA3MjE3MDQsOTgyNTY5Njk2LC03OTI0MjUz
