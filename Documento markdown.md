@@ -25,9 +25,9 @@ Além dessa forma de formatação, podemos também usar <> com um letra no meio,
 <p> Caso queira pular uma linha podemos usar <q>p</q> para isso.</p>
 <p><a> Também é possível deixar o texto/palavra azul e sublinhada com <q>a</q>.</a></p>
 <p><s> Podemos rasurar palavras com o <q>s</q> também.</s></p>
-<p><b> Para deixar em negrito usasse o <q>b</q>.</p>
+<p><b> Para deixar em negrito usasse o <q>b</q>.</b></p>
 
-
+Esses exemplos usam HTML para funcionar, que quando passados para o git não funcio
 ## Listas
 Existem diversos tipos de listas, aqui vão alguns exemplos:
 - Esse tipo de lista usa um " - " para começar a lista
@@ -136,5 +136,6 @@ Quando aprender as principais funções do markdown, você pode passar para as e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg4OTk2NDEsOTcyMDY5NDgzXX0=
+eyJoaXN0b3J5IjpbLTE0NDczNTM1ODgsLTEwODg4OTk2NDEsOT
+cyMDY5NDgzXX0=
 -->
