@@ -113,10 +113,10 @@ Lista de para commit:
 ```
 E caso queira adicionar mais algum arquivo basta fazer mais um Git add
 ```
-Git add main.py
+Git add m.py
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTM4MDE5NSwtMTUzMTExOTkzNSwxNT
-AyNjk4MDMsMTUyMzk2MDU2MF19
+eyJoaXN0b3J5IjpbLTE2MDk5Mjg2MTUsMTc2MTM4MDE5NSwtMT
+UzMTExOTkzNSwxNTAyNjk4MDMsMTUyMzk2MDU2MF19
 -->
