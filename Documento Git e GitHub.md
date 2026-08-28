@@ -100,7 +100,7 @@ Com esse comando ele mostrará a branch atual e de forma resumida assim:
 ```
 
 ## Git add
-Quando usado o **Git add** você está colo colosalvando uma parte para ser alterada, basicamente colocando na lista de espera para o commit. 
+Quando usado o **Git add** você está **salvando uma parte para ser alterada, basicamente colocando na lista de espera** para o commit. 
 
 ### Como escrever:
 ```
@@ -146,9 +146,9 @@ Neste exemplo estamos adicionando apenas arquivos em python.
 Com esse podemos salvar partes especificas das alterações do arquivo
 
 ## Git commit
-Ese
+Este é o comando que **salvará todas as suas alterações** que você adicionou com o add
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc3MDQ1MTksMjEzNDc1MjQyMCwtOD
+eyJoaXN0b3J5IjpbLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtOD
 QwMTE3MjU4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5
 NzQ1LDMxNTYzODY5NiwtODU4MDUzNjksLTQ0MDcyMTcwNCw5OD
 I1Njk2OTYsLTc5MjQyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5
