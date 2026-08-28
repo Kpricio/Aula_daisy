@@ -204,15 +204,21 @@ Date:   ...
 ### O que pode ser feito junto dele?
 
 #### Git log --oneline
-Com esse código você re
+Com esse código você receberá um registro mais simples, ele se parecerá assim:
+
+```
+8f31a2c Esquema de bets
+42bd91e Sistema de registro
+a73c812 Cria projeto
+```
 
 #### Git 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTExNjAyLDI5ODc4NzgwMywtNzMxMD
-YyNzcwLDEwNDE1MzUxNiwtMTczMjQzNDM2NiwtOTU2MDUxMjEx
-LC05ODE2NTk2MDgsLTIxMzc3MDQ1MTksLTg0MDExNzI1OCwyMT
-M5NjQwMjIxLDEzNTQ5MDY0MDYsLTQ5ODIzOTc0NSwzMTU2Mzg2
-OTYsLTg1ODA1MzY5LC00NDA3MjE3MDQsOTgyNTY5Njk2LC03OT
-I0MjUzMSwtMTYwOTkyODYxNSwtMTUzMTExOTkzNSwxNTAyNjk4
-MDNdfQ==
+eyJoaXN0b3J5IjpbMTAwNDU1NjA5NiwtOTI1MTE2MDIsLTczMT
+A2Mjc3MCwxMDQxNTM1MTYsLTE3MzI0MzQzNjYsLTk1NjA1MTIx
+MSwtOTgxNjU5NjA4LC0yMTM3NzA0NTE5LC04NDAxMTcyNTgsMj
+EzOTY0MDIyMSwxMzU0OTA2NDA2LC00OTgyMzk3NDUsMzE1NjM4
+Njk2LC04NTgwNTM2OSwtNDQwNzIxNzA0LDk4MjU2OTY5NiwtNz
+kyNDI1MzEsLTE2MDk5Mjg2MTUsLTE1MzExMTk5MzUsMTUwMjY5
+ODAzXX0=
 -->
