@@ -139,9 +139,11 @@ Também podemos escolher arquivos de um tipo especifico para serem adicionados.
 git add *.py
 ```
 Neste exemplo estamos adicionando apenas arquivos em python.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODIzOTc0NSwzMTU2Mzg2OTYsLTg1OD
-A1MzY5LC00NDA3MjE3MDQsOTgyNTY5Njk2LC03OTI0MjUzMSwt
-MTYwOTkyODYxNSwtMTUzMTExOTkzNSwxNTAyNjk4MDMsMTUyMz
-k2MDU2MF19
+eyJoaXN0b3J5IjpbLTM2ODg2NDM3LC00OTgyMzk3NDUsMzE1Nj
+M4Njk2LC04NTgwNTM2OSwtNDQwNzIxNzA0LDk4MjU2OTY5Niwt
+NzkyNDI1MzEsLTE2MDk5Mjg2MTUsLTE1MzExMTk5MzUsMTUwMj
+Y5ODAzLDE1MjM5NjA1NjBdfQ==
 -->
