@@ -292,11 +292,5 @@ Provavelmente uma das sintaxe mais interessantes, pois com ela você cria uma br
 Git switch -c (funcão_desejada)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA2MDAxNCwxNzQzOTc2OTI4LDExND
-Q2OTIyNTUsLTE2ODAxNDUwNTMsMTk4OTAxODA5NywxMTQzODk3
-MDUsLTE5MDY2NDEyMjAsLTE1MzA1NDk3MDksLTkyNTExNjAyLC
-03MzEwNjI3NzAsMTA0MTUzNTE2LC0xNzMyNDM0MzY2LC05NTYw
-NTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQwMTE3Mj
-U4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5NzQ1LDMx
-NTYzODY5Nl19
+eyJoaXN0b3J5IjpbLTIwMzA2MDAxNF19
 -->
