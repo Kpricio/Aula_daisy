@@ -27,7 +27,8 @@ Além dessa forma de formatação, podemos também usar <> com um letra no meio,
 <p><s> Podemos rasurar palavras com o <q>s</q> também.</s></p>
 <p><b> Para deixar em negrito usasse o <q>b</q>.</b></p>
 
-Esses exemplos usam HTML para funcionar, que quando passados para o git não funcio
+_Esses exemplos usam HTML para funcionar, que quando passados para o git não funcionam, visto que o Git funciona como markdown e não utiliza HTML, pela praticidade._
+
 ## Listas
 Existem diversos tipos de listas, aqui vão alguns exemplos:
 - Esse tipo de lista usa um " - " para começar a lista
@@ -136,6 +137,6 @@ Quando aprender as principais funções do markdown, você pode passar para as e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDczNTM1ODgsLTEwODg4OTk2NDEsOT
-cyMDY5NDgzXX0=
+eyJoaXN0b3J5IjpbMTQ2ODA1NjcyMSwtMTA4ODg5OTY0MSw5Nz
+IwNjk0ODNdfQ==
 -->
