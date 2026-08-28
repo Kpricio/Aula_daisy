@@ -254,9 +254,26 @@ Aqui você estará criando uma nova branch, no entanto você não irá mudar par
 ### O que pode ser feito junto dele?
 
 #### Git Branch -m
-Com esse código, você renomeia-rá uma branch, então se estiver em uma bra
+Com esse código, você renomeia-rá a sua branch atual. Exemplo:
+```
+Git branch
+```
+
+
+```
+*Master
+```
+
+```
+Git branch -m main
+Git branch
+```
+
+```
+Git branch
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDY5MjI1NSwtNzgzMTU5ODY4LC0xNj
+eyJoaXN0b3J5IjpbMTY4MTIwMjk2NywxMTQ0NjkyMjU1LC0xNj
 gwMTQ1MDUzLDE5ODkwMTgwOTcsMTE0Mzg5NzA1LC0xOTA2NjQx
 MjIwLC0xNTMwNTQ5NzA5LC05MjUxMTYwMiwtNzMxMDYyNzcwLD
 EwNDE1MzUxNiwtMTczMjQzNDM2NiwtOTU2MDUxMjExLC05ODE2
