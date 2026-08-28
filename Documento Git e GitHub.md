@@ -215,10 +215,15 @@ a73c812 Cria projeto
 #### Git log --oneline --graph
 Isso mostrará visualmente como as linhas de desenvolvimento se ramificaram ficando assim:
 ```
-
+* 91ab234 Adiciona login
+|\
+| * 72cd891 Cria formulário
+|/
+* 42bd91e Cria projeto
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzA1NDk3MDksLTEwNDc0ODA4MTcsLT
+eyJoaXN0b3J5IjpbLTE4MjczMjY3MDUsLTE1MzA1NDk3MDksLT
 kyNTExNjAyLC03MzEwNjI3NzAsMTA0MTUzNTE2LC0xNzMyNDM0
 MzY2LC05NTYwNTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOS
 wtODQwMTE3MjU4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4
