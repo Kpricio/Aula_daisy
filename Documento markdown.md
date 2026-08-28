@@ -128,6 +128,10 @@ Mas existem outras formas de fazer um citação e uma dessas é com o " > ".
 
 Caso use a seta a sua citação ficaria assim
 > Estou sendo citado.
+
+# E depois do básico?
+Quando aprender as principais funções do markdown, você pode passar para as extenções que ele oferece, podendo criar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDQyMjExNCwxNjYxMzQ0Nzk1XX0=
+eyJoaXN0b3J5IjpbMTEwNTYzMDUyMSwxMzQ0NDIyMTE0LDE2Nj
+EzNDQ3OTVdfQ==
 -->
