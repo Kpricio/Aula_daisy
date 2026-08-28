@@ -101,7 +101,9 @@ Com esse comando ele mostrará a branch atual e de forma resumida assim:
 
 ## Git add
 Quando usado o **Git add** você está colo colosalvando uma parte para ser alterada, basicamente colocando na lista de espera para o commit. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzExMTk5MzUsMTUwMjY5ODAzLDE1Mj
-M5NjA1NjBdfQ==
+eyJoaXN0b3J5IjpbLTExNjE5NzYwMywtMTUzMTExOTkzNSwxNT
+AyNjk4MDMsMTUyMzk2MDU2MF19
 -->
