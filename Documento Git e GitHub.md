@@ -146,11 +146,42 @@ Neste exemplo estamos adicionando apenas arquivos em python.
 Com esse podemos salvar partes especificas das alterações do arquivo
 
 ## Git commit
-Este é o comando que **salvará todas as suas alterações** que você adicionou com o add
+Este é o comando que **salvará todas as suas alterações** que você adicionou com o add.
+
+### Como escrever:
+```
+Git commit
+```
+
+
+
+### O que pode ser feito junto dele?
+
+#### Git commit
+
+#### Git commit
+
+
+## Git 
+
+
+### Como escrever:
+```
+Git 
+```
+
+
+
+### O que pode ser feito junto dele?
+
+#### Git 
+
+#### Git 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtOD
-QwMTE3MjU4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5
-NzQ1LDMxNTYzODY5NiwtODU4MDUzNjksLTQ0MDcyMTcwNCw5OD
-I1Njk2OTYsLTc5MjQyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5
-OTM1LDE1MDI2OTgwMywxNTIzOTYwNTYwXX0=
+eyJoaXN0b3J5IjpbLTk1NjA1MTIxMSwtOTgxNjU5NjA4LC0yMT
+M3NzA0NTE5LC04NDAxMTcyNTgsMjEzOTY0MDIyMSwxMzU0OTA2
+NDA2LC00OTgyMzk3NDUsMzE1NjM4Njk2LC04NTgwNTM2OSwtND
+QwNzIxNzA0LDk4MjU2OTY5NiwtNzkyNDI1MzEsLTE2MDk5Mjg2
+MTUsLTE1MzExMTk5MzUsMTUwMjY5ODAzLDE1MjM5NjA1NjBdfQ
+==
 -->
