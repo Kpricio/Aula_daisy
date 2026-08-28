@@ -253,13 +253,14 @@ Aqui você estará criando uma nova branch, no entanto você não irá mudar par
  
 ### O que pode ser feito junto dele?
 
-#### Git Branch
+#### Git Branch -m
+Com esse código, você renomeia-rá uma branch, então se estiver em uma 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5MTQwOTcsLTE2ODAxNDUwNTMsMTk4OT
-AxODA5NywxMTQzODk3MDUsLTE5MDY2NDEyMjAsLTE1MzA1NDk3
-MDksLTkyNTExNjAyLC03MzEwNjI3NzAsMTA0MTUzNTE2LC0xNz
-MyNDM0MzY2LC05NTYwNTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcw
-NDUxOSwtODQwMTE3MjU4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNi
-wtNDk4MjM5NzQ1LDMxNTYzODY5NiwtODU4MDUzNjksLTQ0MDcy
-MTcwNF19
+eyJoaXN0b3J5IjpbLTc4MzE1OTg2OCwtMTY4MDE0NTA1MywxOT
+g5MDE4MDk3LDExNDM4OTcwNSwtMTkwNjY0MTIyMCwtMTUzMDU0
+OTcwOSwtOTI1MTE2MDIsLTczMTA2Mjc3MCwxMDQxNTM1MTYsLT
+E3MzI0MzQzNjYsLTk1NjA1MTIxMSwtOTgxNjU5NjA4LC0yMTM3
+NzA0NTE5LC04NDAxMTcyNTgsMjEzOTY0MDIyMSwxMzU0OTA2ND
+A2LC00OTgyMzk3NDUsMzE1NjM4Njk2LC04NTgwNTM2OSwtNDQw
+NzIxNzA0XX0=
 -->
