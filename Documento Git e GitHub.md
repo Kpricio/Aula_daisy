@@ -157,7 +157,7 @@ Algo recomendado para fazer junto do git commit é deixar uma mensagem, para fac
 ```
 Git commit -m "sistema de registro"
 ```
-
+Quando usar o git log, 
 
 
 ### O que pode ser feito junto dele?
@@ -183,10 +183,10 @@ Git log
 
 #### Git 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2MTkyODY3LC0xNzMyNDM0MzY2LC05NT
-YwNTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQwMTE3
-MjU4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5NzQ1LD
-MxNTYzODY5NiwtODU4MDUzNjksLTQ0MDcyMTcwNCw5ODI1Njk2
-OTYsLTc5MjQyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5OTM1LD
-E1MDI2OTgwMywxNTIzOTYwNTYwXX0=
+eyJoaXN0b3J5IjpbLTE1NTA0NTI5NzEsLTE3MzI0MzQzNjYsLT
+k1NjA1MTIxMSwtOTgxNjU5NjA4LC0yMTM3NzA0NTE5LC04NDAx
+MTcyNTgsMjEzOTY0MDIyMSwxMzU0OTA2NDA2LC00OTgyMzk3ND
+UsMzE1NjM4Njk2LC04NTgwNTM2OSwtNDQwNzIxNzA0LDk4MjU2
+OTY5NiwtNzkyNDI1MzEsLTE2MDk5Mjg2MTUsLTE1MzExMTk5Mz
+UsMTUwMjY5ODAzLDE1MjM5NjA1NjBdfQ==
 -->
