@@ -146,10 +146,11 @@ Neste exemplo estamos adicionando apenas arquivos em python.
 Com esse podemos salvar partes especificas das alterações do arquivo
 
 ## Git commit
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDExNzI1OCwyMTM5NjQwMjIxLDEzNT
-Q5MDY0MDYsLTQ5ODIzOTc0NSwzMTU2Mzg2OTYsLTg1ODA1MzY5
-LC00NDA3MjE3MDQsOTgyNTY5Njk2LC03OTI0MjUzMSwtMTYwOT
-kyODYxNSwtMTUzMTExOTkzNSwxNTAyNjk4MDMsMTUyMzk2MDU2
-MF19
+eyJoaXN0b3J5IjpbMjEzNDc1MjQyMCwtODQwMTE3MjU4LDIxMz
+k2NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5NzQ1LDMxNTYzODY5
+NiwtODU4MDUzNjksLTQ0MDcyMTcwNCw5ODI1Njk2OTYsLTc5Mj
+QyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5OTM1LDE1MDI2OTgw
+MywxNTIzOTYwNTYwXX0=
 -->
