@@ -126,6 +126,8 @@ Segundo [@todososmeusamigos] "Eu te odeio Fabricio".
 O uso do @ necessita de um documento para ser puxado para ser mostrado a referencia.
 Mas existem outras formas de fazer um citação e uma dessas é com o " > ".
 
+Caso use a seta a sua citação ficaria assim
+> Estou sendo citado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI1NDAyNCwxNjYxMzQ0Nzk1XX0=
+eyJoaXN0b3J5IjpbMTM0NDQyMjExNCwxNjYxMzQ0Nzk1XX0=
 -->
