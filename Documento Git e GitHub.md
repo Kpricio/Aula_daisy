@@ -123,13 +123,13 @@ Lista de para commit:
 ```
 
 ### O que pode ser feito junto dele?
-Você pode para simplificar a quant
+Você pode adicionar mais de 1 arquivo ao mesmo tempo
 
  ```
 Git add main.py calculadora.py
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNTY5Njk2LDEwOTI4MTk3MzYsLTc5Mj
+eyJoaXN0b3J5IjpbMTM5MjE4MDEwNiw5ODI1Njk2OTYsLTc5Mj
 QyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5OTM1LDE1MDI2OTgw
 MywxNTIzOTYwNTYwXX0=
 -->
