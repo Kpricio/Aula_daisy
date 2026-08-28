@@ -163,6 +163,7 @@ Quando usar o git log, verá um código e a mensagem que você escreveu
 ### O que pode ser feito junto dele?
 
 #### Git commit --amend
+Com esse código você salvará o seu ultimo commit, sem ter que salvar uma nova versão.
 
 #### Git commit
 
@@ -183,11 +184,11 @@ Git log
 
 #### Git 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE3MjM1NSwtNzMxMDYyNzcwLDEwND
-E1MzUxNiwtMTczMjQzNDM2NiwtOTU2MDUxMjExLC05ODE2NTk2
-MDgsLTIxMzc3MDQ1MTksLTg0MDExNzI1OCwyMTM5NjQwMjIxLD
-EzNTQ5MDY0MDYsLTQ5ODIzOTc0NSwzMTU2Mzg2OTYsLTg1ODA1
-MzY5LC00NDA3MjE3MDQsOTgyNTY5Njk2LC03OTI0MjUzMSwtMT
-YwOTkyODYxNSwtMTUzMTExOTkzNSwxNTAyNjk4MDMsMTUyMzk2
-MDU2MF19
+eyJoaXN0b3J5IjpbLTIxMzA3MjM5MjcsLTczMTA2Mjc3MCwxMD
+QxNTM1MTYsLTE3MzI0MzQzNjYsLTk1NjA1MTIxMSwtOTgxNjU5
+NjA4LC0yMTM3NzA0NTE5LC04NDAxMTcyNTgsMjEzOTY0MDIyMS
+wxMzU0OTA2NDA2LC00OTgyMzk3NDUsMzE1NjM4Njk2LC04NTgw
+NTM2OSwtNDQwNzIxNzA0LDk4MjU2OTY5NiwtNzkyNDI1MzEsLT
+E2MDk5Mjg2MTUsLTE1MzExMTk5MzUsMTUwMjY5ODAzLDE1MjM5
+NjA1NjBdfQ==
 -->
