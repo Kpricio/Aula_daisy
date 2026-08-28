@@ -179,20 +179,40 @@ Quando usado **receberá um registro de todos os commits já feitos**
 ```
 Git log
 ```
+Quando escrito receberá uma mensagem similar com essa aqui:
+```
+commit 8f31a2c...
+Author: Fabricio
+Date:   ...
 
+    Esquema de bets
+
+commit 42bd91e...
+Author: Fabricio
+Date:   ...
+
+    sistema de registro
+
+commit a73c812...
+Author: Fabricio
+Date:   ...
+
+    Cria projeto
+```
 
 
 ### O que pode ser feito junto dele?
 
 #### Git log --oneline
+Com esse código você 
 
 #### Git 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjA0OTg1MCwtNzMxMDYyNzcwLDEwND
-E1MzUxNiwtMTczMjQzNDM2NiwtOTU2MDUxMjExLC05ODE2NTk2
-MDgsLTIxMzc3MDQ1MTksLTg0MDExNzI1OCwyMTM5NjQwMjIxLD
-EzNTQ5MDY0MDYsLTQ5ODIzOTc0NSwzMTU2Mzg2OTYsLTg1ODA1
-MzY5LC00NDA3MjE3MDQsOTgyNTY5Njk2LC03OTI0MjUzMSwtMT
-YwOTkyODYxNSwtMTUzMTExOTkzNSwxNTAyNjk4MDMsMTUyMzk2
-MDU2MF19
+eyJoaXN0b3J5IjpbMjk4Nzg3ODAzLC03MzEwNjI3NzAsMTA0MT
+UzNTE2LC0xNzMyNDM0MzY2LC05NTYwNTEyMTEsLTk4MTY1OTYw
+OCwtMjEzNzcwNDUxOSwtODQwMTE3MjU4LDIxMzk2NDAyMjEsMT
+M1NDkwNjQwNiwtNDk4MjM5NzQ1LDMxNTYzODY5NiwtODU4MDUz
+NjksLTQ0MDcyMTcwNCw5ODI1Njk2OTYsLTc5MjQyNTMxLC0xNj
+A5OTI4NjE1LC0xNTMxMTE5OTM1LDE1MDI2OTgwMywxNTIzOTYw
+NTYwXX0=
 -->
