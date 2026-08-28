@@ -221,9 +221,17 @@ Isso mostrará visualmente como as linhas de desenvolvimento se ramificaram fica
 |/
 * 42bd91e Cria projeto
 ```
+#### git log -p
+Ele mostra o que foi alterado, ou seja, exatamente quais linhas foram adicionadas e removidas em cada commit.
 
+Por exemplo, você pode ver algo como:
+
+```
+- print("Olá")
++ print("Olá, mundo!")
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjczMjY3MDUsLTE1MzA1NDk3MDksLT
+eyJoaXN0b3J5IjpbLTE5MDY2NDEyMjAsLTE1MzA1NDk3MDksLT
 kyNTExNjAyLC03MzEwNjI3NzAsMTA0MTUzNTE2LC0xNzMyNDM0
 MzY2LC05NTYwNTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOS
 wtODQwMTE3MjU4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4
