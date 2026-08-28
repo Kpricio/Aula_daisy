@@ -280,13 +280,19 @@ ao rodar o código você sairá da branch atual direto para a branch que você e
 * main
   funcão_desejada
 ```
-
+```
+  main
+* funcão_desejada
+```
+### O que pode ser feito junto dele?
+#### Git switch -c (funcão_desejada)
+Provavelmente uma das sintaxe mais interessantes, pois com ela você cria uma branch nova e já move pra ela, podendo codar nela imediatamente.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mzk3NjkyOCwtODA0NzY5NzQyLDExND
-Q2OTIyNTUsLTE2ODAxNDUwNTMsMTk4OTAxODA5NywxMTQzODk3
-MDUsLTE5MDY2NDEyMjAsLTE1MzA1NDk3MDksLTkyNTExNjAyLC
-03MzEwNjI3NzAsMTA0MTUzNTE2LC0xNzMyNDM0MzY2LC05NTYw
-NTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQwMTE3Mj
-U4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5NzQ1LDMx
-NTYzODY5Nl19
+eyJoaXN0b3J5IjpbMjU4OTc3Njg1LDE3NDM5NzY5MjgsMTE0ND
+Y5MjI1NSwtMTY4MDE0NTA1MywxOTg5MDE4MDk3LDExNDM4OTcw
+NSwtMTkwNjY0MTIyMCwtMTUzMDU0OTcwOSwtOTI1MTE2MDIsLT
+czMTA2Mjc3MCwxMDQxNTM1MTYsLTE3MzI0MzQzNjYsLTk1NjA1
+MTIxMSwtOTgxNjU5NjA4LC0yMTM3NzA0NTE5LC04NDAxMTcyNT
+gsMjEzOTY0MDIyMSwxMzU0OTA2NDA2LC00OTgyMzk3NDUsMzE1
+NjM4Njk2XX0=
 -->
