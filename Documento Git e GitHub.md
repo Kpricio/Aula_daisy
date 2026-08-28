@@ -233,8 +233,19 @@ Por exemplo, você pode ver algo como:
 
 ## Git branch
 Esse é o comando relacionado às **branches (ramificações)** do Git. Com ele você cria essas ramificações, para poder desenvolver códigos fora da sua main, e pode ver em qual branch está trabalhando no momento.
+
+### Como escrever:
+O Git branch tem duas formas de ser usado
+
+```
+Git branch
+```
+Com esse 
+### O que pode ser feito junto dele?
+
+#### Git log --oneline
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTUwMTA3NiwxMTQzODk3MDUsLTE5MD
+eyJoaXN0b3J5IjpbMjA5MDI1NTA5NywxMTQzODk3MDUsLTE5MD
 Y2NDEyMjAsLTE1MzA1NDk3MDksLTkyNTExNjAyLC03MzEwNjI3
 NzAsMTA0MTUzNTE2LC0xNzMyNDM0MzY2LC05NTYwNTEyMTEsLT
 k4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQwMTE3MjU4LDIxMzk2
