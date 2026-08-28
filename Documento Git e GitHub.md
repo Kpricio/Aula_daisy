@@ -212,13 +212,15 @@ Com esse código você receberá um registro mais simples, ele se parecerá assi
 a73c812 Cria projeto
 ```
 
-#### Git 
+#### Git log --oneline --graph
+Isso mostrará visualmente como as linhas de desenvolvimento se ramificaram ficando assim:
+``````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDU1NjA5NiwtOTI1MTE2MDIsLTczMT
-A2Mjc3MCwxMDQxNTM1MTYsLTE3MzI0MzQzNjYsLTk1NjA1MTIx
-MSwtOTgxNjU5NjA4LC0yMTM3NzA0NTE5LC04NDAxMTcyNTgsMj
-EzOTY0MDIyMSwxMzU0OTA2NDA2LC00OTgyMzk3NDUsMzE1NjM4
-Njk2LC04NTgwNTM2OSwtNDQwNzIxNzA0LDk4MjU2OTY5NiwtNz
-kyNDI1MzEsLTE2MDk5Mjg2MTUsLTE1MzExMTk5MzUsMTUwMjY5
-ODAzXX0=
+eyJoaXN0b3J5IjpbLTEwNDc0ODA4MTcsLTkyNTExNjAyLC03Mz
+EwNjI3NzAsMTA0MTUzNTE2LC0xNzMyNDM0MzY2LC05NTYwNTEy
+MTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQwMTE3MjU4LD
+IxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5NzQ1LDMxNTYz
+ODY5NiwtODU4MDUzNjksLTQ0MDcyMTcwNCw5ODI1Njk2OTYsLT
+c5MjQyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5OTM1LDE1MDI2
+OTgwM119
 -->
