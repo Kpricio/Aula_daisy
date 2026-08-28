@@ -173,7 +173,7 @@ Ao usar **-v** você verá as diferenças das alterações enquanto você está 
 Pode ser útil para revisar exatamente o que está prestes a ser registrado.
 
 ## Git log
-
+Quando usado **receberá um registro de todos os commits já feitos** 
 
 ### Como escrever:
 ```
@@ -188,7 +188,7 @@ Git log
 
 #### Git 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDc2NjM5MywtNzMxMDYyNzcwLDEwND
+eyJoaXN0b3J5IjpbMTAxNjA0OTg1MCwtNzMxMDYyNzcwLDEwND
 E1MzUxNiwtMTczMjQzNDM2NiwtOTU2MDUxMjExLC05ODE2NTk2
 MDgsLTIxMzc3MDQ1MTksLTg0MDExNzI1OCwyMTM5NjQwMjIxLD
 EzNTQ5MDY0MDYsLTQ5ODIzOTc0NSwzMTU2Mzg2OTYsLTg1ODA1
