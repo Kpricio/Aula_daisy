@@ -133,6 +133,8 @@ Caso use a seta a sua citação ficaria assim
 
 # E depois do básico?
 Quando aprender as principais funções do markdown, você pode passar para as extenções que ele oferece, podendo criar formulas matemáticas com KaTex, ou o Mermaid para criar gráficos mais simples.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMDY5NDgzXX0=
+eyJoaXN0b3J5IjpbLTEwODg4OTk2NDEsOTcyMDY5NDgzXX0=
 -->
