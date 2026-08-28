@@ -153,7 +153,10 @@ Este é o comando que **salvará todas as suas alterações** que você adiciono
 Git commit
 ```
 Quando feito isso você estará salvando no seu computador o histórico dos seus códigos.
-Algo recomendado para fazer junto do git commit é deixar uma mensagem, para facilitar a navegação atrás de um antigo
+Algo recomendado para fazer junto do git commit é deixar uma mensagem, para facilitar a navegação atrás de alguma versão antiga sua. O código para isso é o seguinte:
+```
+
+```
 
 
 
@@ -180,10 +183,10 @@ Git log
 
 #### Git 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI0MzQzNjYsMTQxODE3NzUyMiwtOT
-U2MDUxMjExLC05ODE2NTk2MDgsLTIxMzc3MDQ1MTksLTg0MDEx
-NzI1OCwyMTM5NjQwMjIxLDEzNTQ5MDY0MDYsLTQ5ODIzOTc0NS
-wzMTU2Mzg2OTYsLTg1ODA1MzY5LC00NDA3MjE3MDQsOTgyNTY5
-Njk2LC03OTI0MjUzMSwtMTYwOTkyODYxNSwtMTUzMTExOTkzNS
-wxNTAyNjk4MDMsMTUyMzk2MDU2MF19
+eyJoaXN0b3J5IjpbMTk0NDA5MTA0LC0xNzMyNDM0MzY2LC05NT
+YwNTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQwMTE3
+MjU4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5NzQ1LD
+MxNTYzODY5NiwtODU4MDUzNjksLTQ0MDcyMTcwNCw5ODI1Njk2
+OTYsLTc5MjQyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5OTM1LD
+E1MDI2OTgwMywxNTIzOTYwNTYwXX0=
 -->
