@@ -40,7 +40,12 @@ Além dessas três formas de lista podemos criar listas com espaços, ficando as
 		- terceira parte, fazendo o mesmo que no caso anterior
 
 ## Nota de rodapé
-Notas de rodapé estão aqui para ajudar com pequenas ajudas  ou informações interessantes e
+Notas de rodapé estão aqui para ajudar com pequenas ajudas  ou informações interessantes e essa é a sintaxe:
+[^1]Clica aqui vai
+[^2]Se 
+
+[^1]:Teste pra nota de rodapé
+
 
 ## Links e imagens
 Neste setor iremos ver todas as formas de colocar links, imagens e como modifica-las
@@ -113,5 +118,5 @@ Outro exemplo seria o seguinte
 |Derrotas |Todas|Maioria|Nunca|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDgwODIyNywxNjYxMzQ0Nzk1XX0=
+eyJoaXN0b3J5IjpbLTg3Njg0NTY2MSwxNjYxMzQ0Nzk1XX0=
 -->
