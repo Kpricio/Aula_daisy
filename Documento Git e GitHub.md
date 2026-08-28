@@ -124,12 +124,13 @@ Lista de para commit:
 
 ### O que pode ser feito junto dele?
 Você pode adicionar mais de 1 arquivo ao mesmo tempo
-
- ```
+```
 Git add main.py calculadora.py
 ```
+
+Outra forma de colocar mais de 1 arquivo na "fila" é com "git add ." com isso todos os arquivos da pasta e subpastas 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjE4MDEwNiw5ODI1Njk2OTYsLTc5Mj
-QyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5OTM1LDE1MDI2OTgw
-MywxNTIzOTYwNTYwXX0=
+eyJoaXN0b3J5IjpbLTE5NDI1OTE1NjgsOTgyNTY5Njk2LC03OT
+I0MjUzMSwtMTYwOTkyODYxNSwtMTUzMTExOTkzNSwxNTAyNjk4
+MDMsMTUyMzk2MDU2MF19
 -->
