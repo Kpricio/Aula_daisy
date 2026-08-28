@@ -130,8 +130,8 @@ Caso use a seta a sua citação ficaria assim
 > Estou sendo citado.
 
 # E depois do básico?
-Quando aprender as principais funções do markdown, você pode passar para as extenções que ele oferece, podendo criar 
+Quando aprender as principais funções do markdown, você pode passar para as extenções que ele oferece, podendo criar formulas matemáticas com KaTex, ou o Mermaid para criar gráficos mais simples.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTYzMDUyMSwxMzQ0NDIyMTE0LDE2Nj
+eyJoaXN0b3J5IjpbMTYxNjM3MTUzNSwxMzQ0NDIyMTE0LDE2Nj
 EzNDQ3OTVdfQ==
 -->
