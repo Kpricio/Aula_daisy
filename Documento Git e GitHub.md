@@ -273,10 +273,15 @@ Com esse comando é possível **transitar entre as branchs**
 
 ### Como escrever:
 ```
-Git 
+Git switch (funcão_desejada)
+```
+ao rodar o código você sairá da branch atual direto para a branch que você escreveu
+```
+* main
+  funcão_desejada
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjU2NjgzMywyMDcxNzY2MzA1LDExND
+eyJoaXN0b3J5IjpbLTgwNDc2OTc0MiwtNjMyNTY2ODMzLDExND
 Q2OTIyNTUsLTE2ODAxNDUwNTMsMTk4OTAxODA5NywxMTQzODk3
 MDUsLTE5MDY2NDEyMjAsLTE1MzA1NDk3MDksLTkyNTExNjAyLC
 03MzEwNjI3NzAsMTA0MTUzNTE2LC0xNzMyNDM0MzY2LC05NTYw
