@@ -122,10 +122,14 @@ Lista de para commit:
 - calculadora.py
 ```
 
-Você tmb poderia adiciona-los juntos
- 
+### O que pode ser feito junto dele?
+Você pode para simplificar a quantidade de 
+
+ ```
+Git add main.py calculadora.py
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTExMjgzNiw3NjQyNjU5NjIsLTc5Mj
-QyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5OTM1LDE1MDI2OTgw
-MywxNTIzOTYwNTYwXX0=
+eyJoaXN0b3J5IjpbMTA5MjgxOTczNiwtOTgxMTEyODM2LC03OT
+I0MjUzMSwtMTYwOTkyODYxNSwtMTUzMTExOTkzNSwxNTAyNjk4
+MDMsMTUyMzk2MDU2MF19
 -->
