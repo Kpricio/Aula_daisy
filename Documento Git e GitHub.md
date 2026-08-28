@@ -122,9 +122,10 @@ Lista de para commit:
 - calculadora.py
 ```
 
-Você tmb poderia adiciona-los juntos 
+Você tmb poderia adiciona-los juntos
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0MjY1OTYyLC03OTI0MjUzMSwtMTYwOT
-kyODYxNSwtMTUzMTExOTkzNSwxNTAyNjk4MDMsMTUyMzk2MDU2
-MF19
+eyJoaXN0b3J5IjpbLTk4MTExMjgzNiw3NjQyNjU5NjIsLTc5Mj
+QyNTMxLC0xNjA5OTI4NjE1LC0xNTMxMTE5OTM1LDE1MDI2OTgw
+MywxNTIzOTYwNTYwXX0=
 -->
