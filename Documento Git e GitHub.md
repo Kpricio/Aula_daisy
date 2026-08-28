@@ -134,9 +134,10 @@ Outra forma de colocar mais de 1 arquivo na "fila" é com "git add ." com isso t
 Git add .
 ```
 
-Também podemos escolher arquivos de um tipo esp
+Também podemos escolher arquivos de um tipo especi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzE4MjM5MDMsLTg1ODA1MzY5LC00ND
-A3MjE3MDQsOTgyNTY5Njk2LC03OTI0MjUzMSwtMTYwOTkyODYx
-NSwtMTUzMTExOTkzNSwxNTAyNjk4MDMsMTUyMzk2MDU2MF19
+eyJoaXN0b3J5IjpbMzE1NjM4Njk2LC0xNjcxODIzOTAzLC04NT
+gwNTM2OSwtNDQwNzIxNzA0LDk4MjU2OTY5NiwtNzkyNDI1MzEs
+LTE2MDk5Mjg2MTUsLTE1MzExMTk5MzUsMTUwMjY5ODAzLDE1Mj
+M5NjA1NjBdfQ==
 -->
