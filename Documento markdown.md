@@ -117,6 +117,8 @@ Outro exemplo seria o seguinte
 |Vitórias |0| 1|10000|
 |Derrotas |Todas|Maioria|Nunca|
 
+## Referencias e citações
+Existem diversas formas de fazer uma referencia ou citação, podendo usar o já visto nota de rodapé, mas existem algumas outras  formas de o fazer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgxNjU2MjAsMTY2MTM0NDc5NV19
+eyJoaXN0b3J5IjpbLTUwOTk2NjM0NCwxNjYxMzQ0Nzk1XX0=
 -->
