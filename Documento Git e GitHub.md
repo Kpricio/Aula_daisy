@@ -100,7 +100,7 @@ Com esse comando ele mostrará a branch atual e de forma resumida assim:
 ```
 
 ## Git add
-
+Quando usado o **Git add** você está salvando uma parte para ser alterada, basicamente  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzk2MDU2MF19
+eyJoaXN0b3J5IjpbMTAzNjY4Mjk0MCwxNTIzOTYwNTYwXX0=
 -->
