@@ -142,11 +142,11 @@ git add *.py
 ```
 Neste exemplo estamos adicionando apenas arquivos em python.
 
-#### Git add .
-Outr
+#### Git add -p
+Com esse podemos salvar partes especificas das alterações do arquivo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDkwNjQwNiwtMTkxOTI2Nzc4MywtND
-k4MjM5NzQ1LDMxNTYzODY5NiwtODU4MDUzNjksLTQ0MDcyMTcw
-NCw5ODI1Njk2OTYsLTc5MjQyNTMxLC0xNjA5OTI4NjE1LC0xNT
-MxMTE5OTM1LDE1MDI2OTgwMywxNTIzOTYwNTYwXX0=
+eyJoaXN0b3J5IjpbMjEzOTY0MDIyMSwxMzU0OTA2NDA2LC00OT
+gyMzk3NDUsMzE1NjM4Njk2LC04NTgwNTM2OSwtNDQwNzIxNzA0
+LDk4MjU2OTY5NiwtNzkyNDI1MzEsLTE2MDk5Mjg2MTUsLTE1Mz
+ExMTk5MzUsMTUwMjY5ODAzLDE1MjM5NjA1NjBdfQ==
 -->
