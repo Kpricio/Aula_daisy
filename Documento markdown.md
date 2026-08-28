@@ -121,8 +121,8 @@ Outro exemplo seria o seguinte
 Existem diversas formas de fazer uma referencia ou citação, podendo usar o já visto nota de rodapé, mas existem algumas outras formas de o fazer.
 Uma dessas formas é utilizando o @ pra criar essa citação, com a sintaxe ficando [@Código].
 Usar isso ficaria mais ou menos assim:
-
+Segundo [@todososmeusamigos] "Eu te odeio Fabrici
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTU0MjIwNywxNjYxMzQ0Nzk1XX0=
+eyJoaXN0b3J5IjpbLTM5Nzk0NzMzOCwxNjYxMzQ0Nzk1XX0=
 -->
