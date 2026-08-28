@@ -144,9 +144,12 @@ Neste exemplo estamos adicionando apenas arquivos em python.
 
 #### Git add -p
 Com esse podemos salvar partes especificas das alterações do arquivo
+
+## Git commit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTY0MDIyMSwxMzU0OTA2NDA2LC00OT
-gyMzk3NDUsMzE1NjM4Njk2LC04NTgwNTM2OSwtNDQwNzIxNzA0
-LDk4MjU2OTY5NiwtNzkyNDI1MzEsLTE2MDk5Mjg2MTUsLTE1Mz
-ExMTk5MzUsMTUwMjY5ODAzLDE1MjM5NjA1NjBdfQ==
+eyJoaXN0b3J5IjpbLTg0MDExNzI1OCwyMTM5NjQwMjIxLDEzNT
+Q5MDY0MDYsLTQ5ODIzOTc0NSwzMTU2Mzg2OTYsLTg1ODA1MzY5
+LC00NDA3MjE3MDQsOTgyNTY5Njk2LC03OTI0MjUzMSwtMTYwOT
+kyODYxNSwtMTUzMTExOTkzNSwxNTAyNjk4MDMsMTUyMzk2MDU2
+MF19
 -->
