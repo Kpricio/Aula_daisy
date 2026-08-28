@@ -155,7 +155,7 @@ Git commit
 Quando feito isso você estará salvando no seu computador o histórico dos seus códigos.
 Algo recomendado para fazer junto do git commit é deixar uma mensagem, para facilitar a navegação atrás de alguma versão antiga sua. O código para isso é o seguinte:
 ```
-
+Git commit -m "sistema de registro"
 ```
 
 
@@ -183,7 +183,7 @@ Git log
 
 #### Git 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDA5MTA0LC0xNzMyNDM0MzY2LC05NT
+eyJoaXN0b3J5IjpbNDc2MTkyODY3LC0xNzMyNDM0MzY2LC05NT
 YwNTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQwMTE3
 MjU4LDIxMzk2NDAyMjEsMTM1NDkwNjQwNiwtNDk4MjM5NzQ1LD
 MxNTYzODY5NiwtODU4MDUzNjksLTQ0MDcyMTcwNCw5ODI1Njk2
