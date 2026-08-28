@@ -120,7 +120,9 @@ Outro exemplo seria o seguinte
 ## Referencias e citações
 Existem diversas formas de fazer uma referencia ou citação, podendo usar o já visto nota de rodapé, mas existem algumas outras formas de o fazer.
 Uma dessas formas é utilizando o @ pra criar essa citação, com a sintaxe ficando [@Código].
+Usar isso ficaria mais ou menos assim:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NjIxMjA2LDE2NjEzNDQ3OTVdfQ==
+eyJoaXN0b3J5IjpbMTczOTU0MjIwNywxNjYxMzQ0Nzk1XX0=
 -->
