@@ -41,7 +41,9 @@ Além dessas três formas de lista podemos criar listas com espaços, ficando as
 
 ## Nota de rodapé
 Notas de rodapé estão aqui para ajudar com pequenas ajudas  ou informações interessantes e essa é a sintaxe:
+
 [^1]Clica aqui vai
+
 [^2]Se funcionou clica aqui por favor
 
 [^1]:Vai toma no teu cu
@@ -132,6 +134,5 @@ Caso use a seta a sua citação ficaria assim
 # E depois do básico?
 Quando aprender as principais funções do markdown, você pode passar para as extenções que ele oferece, podendo criar formulas matemáticas com KaTex, ou o Mermaid para criar gráficos mais simples.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjM3MTUzNSwxMzQ0NDIyMTE0LDE2Nj
-EzNDQ3OTVdfQ==
+eyJoaXN0b3J5IjpbOTcyMDY5NDgzXX0=
 -->
