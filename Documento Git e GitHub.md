@@ -129,8 +129,14 @@ Git add main.py calculadora.py
 ```
 
 Outra forma de colocar mais de 1 arquivo na "fila" é com "git add ." com isso todos os arquivos da pasta e subpastas serão adicionadas a lista para serem salvas (ou commitadas)
+
+```
+Git add .
+```
+
+Também podemos escolher arquivos de um tipo esp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODA1MzY5LC00NDA3MjE3MDQsOTgyNT
-Y5Njk2LC03OTI0MjUzMSwtMTYwOTkyODYxNSwtMTUzMTExOTkz
-NSwxNTAyNjk4MDMsMTUyMzk2MDU2MF19
+eyJoaXN0b3J5IjpbLTE2NzE4MjM5MDMsLTg1ODA1MzY5LC00ND
+A3MjE3MDQsOTgyNTY5Njk2LC03OTI0MjUzMSwtMTYwOTkyODYx
+NSwtMTUzMTExOTkzNSwxNTAyNjk4MDMsMTUyMzk2MDU2MF19
 -->
