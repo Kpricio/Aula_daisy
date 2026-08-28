@@ -113,10 +113,15 @@ Lista de para commit:
 ```
 E caso queira adicionar mais algum arquivo basta fazer mais um Git add
 ```
-Git add m.py
+Git add calculadora.py
 ```
-
+Depois de dar add:
+```
+Lista de para commit:
+- main.py
+- calculadora.py
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk5Mjg2MTUsMTc2MTM4MDE5NSwtMT
-UzMTExOTkzNSwxNTAyNjk4MDMsMTUyMzk2MDU2MF19
+eyJoaXN0b3J5IjpbLTc5MjQyNTMxLC0xNjA5OTI4NjE1LC0xNT
+MxMTE5OTM1LDE1MDI2OTgwMywxNTIzOTYwNTYwXX0=
 -->
