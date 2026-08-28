@@ -246,13 +246,16 @@ Com esse código será mostrado em qual branch você está trabalhando, ficando 
   outra_branch
 ```
 
-
+```
+Git branch Nova_branch
+```
+Aqui você estará criando uma nova branch, no entanto você não irá mudar para ela, tendo assim que mudar manualmente para ela com **Git checkout** ou **Git switch**.
  
 ### O que pode ser feito junto dele?
 
 #### Git log --oneline
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc1OTUzNTUsMTk4OTAxODA5NywxMT
+eyJoaXN0b3J5IjpbLTE1MDM2OTY3MzUsMTk4OTAxODA5NywxMT
 QzODk3MDUsLTE5MDY2NDEyMjAsLTE1MzA1NDk3MDksLTkyNTEx
 NjAyLC03MzEwNjI3NzAsMTA0MTUzNTE2LC0xNzMyNDM0MzY2LC
 05NTYwNTEyMTEsLTk4MTY1OTYwOCwtMjEzNzcwNDUxOSwtODQw
