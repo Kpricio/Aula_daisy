@@ -322,11 +322,17 @@ Aqui você estará restaurando o seu arquivo main.py, algo que pode ser feito as
 ```
 git restore main.py
 ``` 
-Esses dois comando fazem a mes
+Esses dois comando fazem a mesma coisa, mas o segundo é mais claro e simples.
+
+## Git merge
+Com o *
+### Como escrever:
+
+### O que pode ser feito junto dele?
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDQ4Njc0NCw4ODkxNzYzNiwtMjgyMD
-cwMTAsLTQ5NDIwNjE3MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2
-LC0yMDMwNjAwMTRdfQ==
+eyJoaXN0b3J5IjpbNjg1NDYzNzQ5LC05NjA0ODY3NDQsLTI4Mj
+A3MDEwLC00OTQyMDYxNzMsMTIzNjQ1NDY5MCwtMTY0MzI0MDY1
+NiwtMjAzMDYwMDE0XX0=
 -->
