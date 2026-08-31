@@ -330,15 +330,16 @@ Com o **Git merge** você consegue **unir duas branchs diferentes em uma só bra
 ```
 Git merge branch_desejada
 ```
-Com isso a branch que você quer se juntará com a branch que voc
+Com isso a branch que você quer se juntará com a branch que você está no momento.
+
 ### O que pode ser feito junto dele?
 
 ## Git push
 O **Git push** tem como principal função **enviar os commits para um repositório remoto**, como o GitHub
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3NTI0NTAzLC01MjAyNzA3LDQwOTc2Nz
-UzOSwxNjg0MTA4NzUsLTE2NTYwMTUzOTAsLTExNjcyODkzOCwt
-MTQzMzA4NTE1NywtMjgyMDcwMTAsLTQ5NDIwNjE3MywxMjM2ND
-U0NjkwLC0xNjQzMjQwNjU2LC0yMDMwNjAwMTRdfQ==
+eyJoaXN0b3J5IjpbMzE2NjQzMzg0LDQ0NzUyNDUwMyw0MDk3Nj
+c1MzksMTY4NDEwODc1LC0xNjU2MDE1MzkwLC0xMTY3Mjg5Mzgs
+LTE0MzMwODUxNTcsLTI4MjA3MDEwLC00OTQyMDYxNzMsMTIzNj
+Q1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYwMDE0XX0=
 -->
