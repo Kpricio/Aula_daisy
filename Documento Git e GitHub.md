@@ -364,12 +364,16 @@ O **Git push** tem como principal função **enviar os commits para um repositó
 ```
 git push
 ```
-este será o comando que usará comumente para enviar as alterações dos seus commits para o GitHub, mas quando for fazer a primeira vez esse deve ser 
+este será o comando que usará comumente para enviar as alterações dos seus commits para o GitHub, mas quando for fazer a primeira vez esse deve ser o comando:
+```
+git push -u origin main
+```
+Depois de ter feito isso uma vez, basta usar o primeiro comando que dará tudo certo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjY1MzM3MywxNzc1NjI3ODA3LDcyOD
-kyMjUzNywtMTcwMjgxMzk5OSwtODc4MDQ3NzE1LDMxNjY0MzM4
-NCw0NDc1MjQ1MDMsNDA5NzY3NTM5LDE2ODQxMDg3NSwtMTY1Nj
-AxNTM5MCwtMTE2NzI4OTM4LC0xNDMzMDg1MTU3LC0yODIwNzAx
-MCwtNDk0MjA2MTczLDEyMzY0NTQ2OTAsLTE2NDMyNDA2NTYsLT
-IwMzA2MDAxNF19
+eyJoaXN0b3J5IjpbLTEzNjI5MTA5NjQsMTgxMjY1MzM3Myw3Mj
+g5MjI1MzcsLTE3MDI4MTM5OTksLTg3ODA0NzcxNSwzMTY2NDMz
+ODQsNDQ3NTI0NTAzLDQwOTc2NzUzOSwxNjg0MTA4NzUsLTE2NT
+YwMTUzOTAsLTExNjcyODkzOCwtMTQzMzA4NTE1NywtMjgyMDcw
+MTAsLTQ5NDIwNjE3MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2LC
+0yMDMwNjAwMTRdfQ==
 -->
