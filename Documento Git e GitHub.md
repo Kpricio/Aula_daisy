@@ -362,10 +362,11 @@ Aqui estaremos trocando o nome da nossa referencia para o endereço
 O **Git push** tem como principal função **enviar os commits para um repositório remoto**, como o GitHub
 ### Como escrever:
 ```
-git remote add origin URL_DO_REPOSITORIO
+git push
 ```
+este será o comando que usará comumente para enviar as alterações dos seus commits para o GitHub, mas quando for fazer a primeira vez es
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTU1MzMxMiw3Mjg5MjI1MzcsLTE3MD
+eyJoaXN0b3J5IjpbMTc3NTYyNzgwNyw3Mjg5MjI1MzcsLTE3MD
 I4MTM5OTksLTg3ODA0NzcxNSwzMTY2NDMzODQsNDQ3NTI0NTAz
 LDQwOTc2NzUzOSwxNjg0MTA4NzUsLTE2NTYwMTUzOTAsLTExNj
 cyODkzOCwtMTQzMzA4NTE1NywtMjgyMDcwMTAsLTQ5NDIwNjE3
