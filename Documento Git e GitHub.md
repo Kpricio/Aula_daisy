@@ -312,11 +312,12 @@ Aqui você irá criar uma branch e no mesmo instante trocará para ela, assim co
 ```
 git checkout código_do_commit
 ```
-Co
+C
 
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTAyNDUwLC00OTQyMDYxNzMsMTIzNj
-Q1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYwMDE0XX0=
+eyJoaXN0b3J5IjpbLTEwNTM0OTgwNjMsLTI3OTAyNDUwLC00OT
+QyMDYxNzMsMTIzNjQ1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYw
+MDE0XX0=
 -->
