@@ -300,10 +300,10 @@ Dos comandos existentes esse é um dos mais antigos, mas que ainda pode ser usad
 ```
 git checkout branch_existente
 ```
-Com esse 
+Com esse comando 
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNzU1MjI3LC0xNjQzMjQwNjU2LC0yMD
-MwNjAwMTRdfQ==
+eyJoaXN0b3J5IjpbMTIzNjQ1NDY5MCw5MzE3NTUyMjcsLTE2ND
+MyNDA2NTYsLTIwMzA2MDAxNF19
 -->
