@@ -380,12 +380,13 @@ O **Git pull** tem como principal função **puxar os commits para um de reposit
 ```
 git pull
 ```
-Com o Git pull, você trará todas as alterações salvas no seu GitHub e atualizará o seu código no computador 
+Com o Git pull, você trará todas as alterações salvas no seu GitHub e atualizará o seu código no computador.
+Então em um computador você pode dar um git push, para por o seu código atual no GitHub e em outro computador dar um Git pull, para trazer esses códigos atualizados, para não ter que refazer tudo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNDI3OTgxLC01MjIwNzU2MTAsMTgxMj
-Y1MzM3Myw3Mjg5MjI1MzcsLTE3MDI4MTM5OTksLTg3ODA0Nzcx
-NSwzMTY2NDMzODQsNDQ3NTI0NTAzLDQwOTc2NzUzOSwxNjg0MT
-A4NzUsLTE2NTYwMTUzOTAsLTExNjcyODkzOCwtMTQzMzA4NTE1
-NywtMjgyMDcwMTAsLTQ5NDIwNjE3MywxMjM2NDU0NjkwLC0xNj
-QzMjQwNjU2LC0yMDMwNjAwMTRdfQ==
+eyJoaXN0b3J5IjpbLTEyMjkwNTQ0MzcsOTEzNDI3OTgxLDE4MT
+I2NTMzNzMsNzI4OTIyNTM3LC0xNzAyODEzOTk5LC04NzgwNDc3
+MTUsMzE2NjQzMzg0LDQ0NzUyNDUwMyw0MDk3Njc1MzksMTY4ND
+EwODc1LC0xNjU2MDE1MzkwLC0xMTY3Mjg5MzgsLTE0MzMwODUx
+NTcsLTI4MjA3MDEwLC00OTQyMDYxNzMsMTIzNjQ1NDY5MCwtMT
+Y0MzI0MDY1NiwtMjAzMDYwMDE0XX0=
 -->
