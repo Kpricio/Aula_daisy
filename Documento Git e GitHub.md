@@ -291,6 +291,8 @@ Provavelmente uma das sintaxe mais interessantes, pois com ela você cria uma br
 ```
 Git switch -c (funcão_desejada)
 ```
+
+## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA2MDAxNF19
+eyJoaXN0b3J5IjpbMTg1NDk3MjYzOCwtMjAzMDYwMDE0XX0=
 -->
