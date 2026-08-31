@@ -322,11 +322,11 @@ Aqui você estará restaurando o seu arquivo main.py, algo que pode ser feito as
 ```
 git restore main.py
 ``` 
-Esses dois comando faz
+Esses dois comando fazem a mes
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5MTc2MzYsLTI4MjA3MDEwLC00OTQyMD
-YxNzMsMTIzNjQ1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYwMDE0
-XX0=
+eyJoaXN0b3J5IjpbLTk2MDQ4Njc0NCw4ODkxNzYzNiwtMjgyMD
+cwMTAsLTQ5NDIwNjE3MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2
+LC0yMDMwNjAwMTRdfQ==
 -->
