@@ -373,11 +373,18 @@ Depois de ter feito isso uma vez, basta usar o primeiro comando que dará tudo c
 ### O que pode ser feito junto dele?
 #### Git push -u origin nome-da-branch
 Assim como o segundo ele é necessário fazer uma primeira vez, mas nesse caso é para qualquer nova branch que tenha criado no remoto
+
+## Git pull
+O **Git pull** tem como principal função **puxar os commits para um de repositório remoto, para o seu computador**
+### Como escrever:
+```
+git pull
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzczMDE0LDE4MTI2NTMzNzMsNzI4OT
-IyNTM3LC0xNzAyODEzOTk5LC04NzgwNDc3MTUsMzE2NjQzMzg0
-LDQ0NzUyNDUwMyw0MDk3Njc1MzksMTY4NDEwODc1LC0xNjU2MD
-E1MzkwLC0xMTY3Mjg5MzgsLTE0MzMwODUxNTcsLTI4MjA3MDEw
-LC00OTQyMDYxNzMsMTIzNjQ1NDY5MCwtMTY0MzI0MDY1NiwtMj
-AzMDYwMDE0XX0=
+eyJoaXN0b3J5IjpbLTE5OTgyMTc3OTQsMTgxMjY1MzM3Myw3Mj
+g5MjI1MzcsLTE3MDI4MTM5OTksLTg3ODA0NzcxNSwzMTY2NDMz
+ODQsNDQ3NTI0NTAzLDQwOTc2NzUzOSwxNjg0MTA4NzUsLTE2NT
+YwMTUzOTAsLTExNjcyODkzOCwtMTQzMzA4NTE1NywtMjgyMDcw
+MTAsLTQ5NDIwNjE3MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2LC
+0yMDMwNjAwMTRdfQ==
 -->
