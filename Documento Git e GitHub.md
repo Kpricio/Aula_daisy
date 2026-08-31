@@ -344,7 +344,7 @@ Com o **Git remote** teremos a **conexão entre o repositório do nosso computad
 git remote add origin URL_DO_REPOSITORIO
 ```
 Com esse comando iremos mostrar qual o nosso repositório no GitHub, para que possamos enviar nossos commits para lá.
-com o **add** sendo o nosso código para adicionar u
+com o **add** sendo o nosso código para adicionar uma nova referencia remota, **origin** será o nome da nossa referencia e **URL_DO_REPOSITORIO** é o endereço do repositório no GitHub.
 
 Em seguida podemos fazer um:
 ```
@@ -354,14 +354,17 @@ Git remote -v
 ```
 Para mostrar o endereço
 
+### O que pode ser feito junto dele?
+#### Git
+
 ## Git push
 O **Git push** tem como principal função **enviar os commits para um repositório remoto**, como o GitHub
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTEyNTc1OTMsMTEwMzk4MTU0MCwtMT
-cwMjgxMzk5OSwtODc4MDQ3NzE1LDMxNjY0MzM4NCw0NDc1MjQ1
-MDMsNDA5NzY3NTM5LDE2ODQxMDg3NSwtMTY1NjAxNTM5MCwtMT
-E2NzI4OTM4LC0xNDMzMDg1MTU3LC0yODIwNzAxMCwtNDk0MjA2
-MTczLDEyMzY0NTQ2OTAsLTE2NDMyNDA2NTYsLTIwMzA2MDAxNF
-19
+eyJoaXN0b3J5IjpbNDE3NTU0MjksLTE4MTEyNTc1OTMsLTE3MD
+I4MTM5OTksLTg3ODA0NzcxNSwzMTY2NDMzODQsNDQ3NTI0NTAz
+LDQwOTc2NzUzOSwxNjg0MTA4NzUsLTE2NTYwMTUzOTAsLTExNj
+cyODkzOCwtMTQzMzA4NTE1NywtMjgyMDcwMTAsLTQ5NDIwNjE3
+MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2LC0yMDMwNjAwMTRdfQ
+==
 -->
