@@ -331,8 +331,10 @@ Com o **Git merge** você consegue **unir duas branchs diferentes em uma só bra
 ### O que pode ser feito junto dele?
 
 ## Git push
+O **Git push** tem como 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTYwMTUzOTAsLTExNjcyODkzOCwtMT
-QzMzA4NTE1NywtMjgyMDcwMTAsLTQ5NDIwNjE3MywxMjM2NDU0
-NjkwLC0xNjQzMjQwNjU2LC0yMDMwNjAwMTRdfQ==
+eyJoaXN0b3J5IjpbMTE2ODcwNzA4MSwtMTY1NjAxNTM5MCwtMT
+E2NzI4OTM4LC0xNDMzMDg1MTU3LC0yODIwNzAxMCwtNDk0MjA2
+MTczLDEyMzY0NTQ2OTAsLTE2NDMyNDA2NTYsLTIwMzA2MDAxNF
+19
 -->
