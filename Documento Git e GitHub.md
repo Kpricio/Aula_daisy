@@ -355,16 +355,15 @@ Git remote -v
 Para mostrar o endereço
 
 ### O que pode ser feito junto dele?
-#### Git
+#### Git 
 
 ## Git push
 O **Git push** tem como principal função **enviar os commits para um repositório remoto**, como o GitHub
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3NTU0MjksLTE4MTEyNTc1OTMsLTE3MD
-I4MTM5OTksLTg3ODA0NzcxNSwzMTY2NDMzODQsNDQ3NTI0NTAz
-LDQwOTc2NzUzOSwxNjg0MTA4NzUsLTE2NTYwMTUzOTAsLTExNj
-cyODkzOCwtMTQzMzA4NTE1NywtMjgyMDcwMTAsLTQ5NDIwNjE3
-MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2LC0yMDMwNjAwMTRdfQ
-==
+eyJoaXN0b3J5IjpbNzI4OTIyNTM3LDQxNzU1NDI5LC0xNzAyOD
+EzOTk5LC04NzgwNDc3MTUsMzE2NjQzMzg0LDQ0NzUyNDUwMyw0
+MDk3Njc1MzksMTY4NDEwODc1LC0xNjU2MDE1MzkwLC0xMTY3Mj
+g5MzgsLTE0MzMwODUxNTcsLTI4MjA3MDEwLC00OTQyMDYxNzMs
+MTIzNjQ1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYwMDE0XX0=
 -->
