@@ -325,14 +325,14 @@ git restore main.py
 Esses dois comando fazem a mesma coisa, mas o segundo é mais claro e simples.
 
 ## Git merge
-Com o ****
+Com o **Git merge** você consegue unir duas branchs diferentes em uma 
 ### Como escrever:
 
 ### O que pode ser feito junto dele?
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMwODUxNTcsNjg1NDYzNzQ5LC0yOD
-IwNzAxMCwtNDk0MjA2MTczLDEyMzY0NTQ2OTAsLTE2NDMyNDA2
-NTYsLTIwMzA2MDAxNF19
+eyJoaXN0b3J5IjpbLTExNjcyODkzOCwtMTQzMzA4NTE1NywtMj
+gyMDcwMTAsLTQ5NDIwNjE3MywxMjM2NDU0NjkwLC0xNjQzMjQw
+NjU2LC0yMDMwNjAwMTRdfQ==
 -->
