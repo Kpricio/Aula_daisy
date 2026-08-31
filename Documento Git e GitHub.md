@@ -308,9 +308,15 @@ git checkout -b branch_nova
 ```
 Aqui você irá criar uma branch e no mesmo instante trocará para ela, assim como um git switch -c faria
 
+#### Para ver antigos commits:
+```
+git checkout código_do_commit
+```
+Co
+
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDIwNjE3MywxMjM2NDU0NjkwLC0xNj
-QzMjQwNjU2LC0yMDMwNjAwMTRdfQ==
+eyJoaXN0b3J5IjpbLTI3OTAyNDUwLC00OTQyMDYxNzMsMTIzNj
+Q1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYwMDE0XX0=
 -->
