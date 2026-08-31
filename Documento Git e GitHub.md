@@ -293,9 +293,10 @@ Git switch -c (funcão_desejada)
 ```
 
 ## Git Checkout
-
+Dos comandos existentes esse é um dos mais antigos, mas que ainda pode ser usado. Ele é um comando multifuncional, podendo criar uma branch, trocar para uma branch
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMyNDA2NTYsLTIwMzA2MDAxNF19
+eyJoaXN0b3J5IjpbMTUyMjQyOTI5NiwtMTY0MzI0MDY1NiwtMj
+AzMDYwMDE0XX0=
 -->
