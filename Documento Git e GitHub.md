@@ -325,14 +325,14 @@ git restore main.py
 Esses dois comando fazem a mesma coisa, mas o segundo é mais claro e simples.
 
 ## Git merge
-Com o *
+Com o ****
 ### Como escrever:
 
 ### O que pode ser feito junto dele?
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1NDYzNzQ5LC05NjA0ODY3NDQsLTI4Mj
-A3MDEwLC00OTQyMDYxNzMsMTIzNjQ1NDY5MCwtMTY0MzI0MDY1
-NiwtMjAzMDYwMDE0XX0=
+eyJoaXN0b3J5IjpbLTE0MzMwODUxNTcsNjg1NDYzNzQ5LC0yOD
+IwNzAxMCwtNDk0MjA2MTczLDEyMzY0NTQ2OTAsLTE2NDMyNDA2
+NTYsLTIwMzA2MDAxNF19
 -->
