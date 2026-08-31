@@ -355,15 +355,20 @@ Git remote -v
 Para mostrar o endereço
 
 ### O que pode ser feito junto dele?
-#### Git 
+#### Git remote rename Nome_original Nome_novo
+Aqui estaremos trocando o nome da nossa referencia para o endereço
 
 ## Git push
 O **Git push** tem como principal função **enviar os commits para um repositório remoto**, como o GitHub
-
+### Como escrever:
+```
+git remote add origin URL_DO_REPOSITORIO
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4OTIyNTM3LDQxNzU1NDI5LC0xNzAyOD
-EzOTk5LC04NzgwNDc3MTUsMzE2NjQzMzg0LDQ0NzUyNDUwMyw0
-MDk3Njc1MzksMTY4NDEwODc1LC0xNjU2MDE1MzkwLC0xMTY3Mj
-g5MzgsLTE0MzMwODUxNTcsLTI4MjA3MDEwLC00OTQyMDYxNzMs
-MTIzNjQ1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYwMDE0XX0=
+eyJoaXN0b3J5IjpbMTU5OTU1MzMxMiw3Mjg5MjI1MzcsLTE3MD
+I4MTM5OTksLTg3ODA0NzcxNSwzMTY2NDMzODQsNDQ3NTI0NTAz
+LDQwOTc2NzUzOSwxNjg0MTA4NzUsLTE2NTYwMTUzOTAsLTExNj
+cyODkzOCwtMTQzMzA4NTE1NywtMjgyMDcwMTAsLTQ5NDIwNjE3
+MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2LC0yMDMwNjAwMTRdfQ
+==
 -->
