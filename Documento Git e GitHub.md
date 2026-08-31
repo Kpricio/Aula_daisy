@@ -369,8 +369,9 @@ este será o comando que usará comumente para enviar as alterações dos seus c
 git push -u origin main
 ```
 Depois de ter feito isso uma vez, basta usar o primeiro comando que dará tudo certo.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI5MTA5NjQsMTgxMjY1MzM3Myw3Mj
+eyJoaXN0b3J5IjpbLTIwNTM3OTI3MTAsMTgxMjY1MzM3Myw3Mj
 g5MjI1MzcsLTE3MDI4MTM5OTksLTg3ODA0NzcxNSwzMTY2NDMz
 ODQsNDQ3NTI0NTAzLDQwOTc2NzUzOSwxNjg0MTA4NzUsLTE2NT
 YwMTUzOTAsLTExNjcyODkzOCwtMTQzMzA4NTE1NywtMjgyMDcw
