@@ -318,11 +318,15 @@ Com isso você poderá checar o estado que o projeto se encontrava na época. Is
 ```
 git checkout -- main.py
 ```
-
+Aqui você estará restaurando o seu arquivo main.py, algo que pode ser feito assim:
+```
+git restore main.py
+``` 
+Esses dois comando faz
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODQzMjAwMywtMjgyMDcwMTAsLTQ5ND
-IwNjE3MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2LC0yMDMwNjAw
-MTRdfQ==
+eyJoaXN0b3J5IjpbODg5MTc2MzYsLTI4MjA3MDEwLC00OTQyMD
+YxNzMsMTIzNjQ1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYwMDE0
+XX0=
 -->
