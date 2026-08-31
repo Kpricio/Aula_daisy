@@ -333,13 +333,16 @@ Git merge branch_desejada
 Com isso a branch que você quer se juntará com a branch que você está no momento.
 
 ### O que pode ser feito junto dele?
+#### Git merge --abort
+Caso ocorra algum conflito com o merge ao usar esse comandno
 
 ## Git push
 O **Git push** tem como principal função **enviar os commits para um repositório remoto**, como o GitHub
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NjQzMzg0LDQ0NzUyNDUwMyw0MDk3Nj
-c1MzksMTY4NDEwODc1LC0xNjU2MDE1MzkwLC0xMTY3Mjg5Mzgs
-LTE0MzMwODUxNTcsLTI4MjA3MDEwLC00OTQyMDYxNzMsMTIzNj
-Q1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYwMDE0XX0=
+eyJoaXN0b3J5IjpbLTE3ODI5MTY5MTAsMzE2NjQzMzg0LDQ0Nz
+UyNDUwMyw0MDk3Njc1MzksMTY4NDEwODc1LC0xNjU2MDE1Mzkw
+LC0xMTY3Mjg5MzgsLTE0MzMwODUxNTcsLTI4MjA3MDEwLC00OT
+QyMDYxNzMsMTIzNjQ1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYw
+MDE0XX0=
 -->
