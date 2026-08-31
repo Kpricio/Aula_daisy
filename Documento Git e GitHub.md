@@ -339,11 +339,16 @@ Caso ocorra algum conflito com o merge ao usar esse comando  o git retornará o 
 ## Git remote
 Com o **Git remote** teremos a **conexão entre o repositório do nosso computador com o repositório remoto ou do GitHub**
 
+### Como escrever:
+```
+git remote add origin URL_DO_REPOSITORIO
+```
+Com esse comando iremos mostrar qual o nosso repositório no GitHub, para que possamos enviar nossos commits para lá.
 ## Git push
 O **Git push** tem como principal função **enviar os commits para um repositório remoto**, como o GitHub
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTYwMDY2NiwtMTcwMjgxMzk5OSwtOD
+eyJoaXN0b3J5IjpbMTYwOTk2NTE4NywtMTcwMjgxMzk5OSwtOD
 c4MDQ3NzE1LDMxNjY0MzM4NCw0NDc1MjQ1MDMsNDA5NzY3NTM5
 LDE2ODQxMDg3NSwtMTY1NjAxNTM5MCwtMTE2NzI4OTM4LC0xND
 MzMDg1MTU3LC0yODIwNzAxMCwtNDk0MjA2MTczLDEyMzY0NTQ2
