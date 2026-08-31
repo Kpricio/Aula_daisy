@@ -312,12 +312,12 @@ Aqui você irá criar uma branch e no mesmo instante trocará para ela, assim co
 ```
 git checkout código_do_commit
 ```
-Com isso você poderá checar o estado que o projeto se encontrava na época. Isso não afetará nada, ajudando a ter uma ideia das coisas que você mud 
+Com isso você poderá checar o estado que o projeto se encontrava na época. Isso não afetará nada, ajudando a ter uma ideia das coisas que você mudou ou  
 
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTQxMjg5NCwtMTA1MzQ5ODA2MywtND
-k0MjA2MTczLDEyMzY0NTQ2OTAsLTE2NDMyNDA2NTYsLTIwMzA2
-MDAxNF19
+eyJoaXN0b3J5IjpbLTI4MjA3MDEwLDIwNzk0MTI4OTQsLTQ5ND
+IwNjE3MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2LC0yMDMwNjAw
+MTRdfQ==
 -->
