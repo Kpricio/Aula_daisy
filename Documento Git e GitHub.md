@@ -334,15 +334,15 @@ Com isso a branch que você quer se juntará com a branch que você está no mom
 
 ### O que pode ser feito junto dele?
 #### Git merge --abort
-Caso ocorra algum conflito com o merge ao usar esse comandno
+Caso ocorra algum conflito com o merge ao usar esse comando  o 
 
 ## Git push
 O **Git push** tem como principal função **enviar os commits para um repositório remoto**, como o GitHub
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI5MTY5MTAsMzE2NjQzMzg0LDQ0Nz
-UyNDUwMyw0MDk3Njc1MzksMTY4NDEwODc1LC0xNjU2MDE1Mzkw
-LC0xMTY3Mjg5MzgsLTE0MzMwODUxNTcsLTI4MjA3MDEwLC00OT
-QyMDYxNzMsMTIzNjQ1NDY5MCwtMTY0MzI0MDY1NiwtMjAzMDYw
-MDE0XX0=
+eyJoaXN0b3J5IjpbLTg3ODA0NzcxNSwtMTc4MjkxNjkxMCwzMT
+Y2NDMzODQsNDQ3NTI0NTAzLDQwOTc2NzUzOSwxNjg0MTA4NzUs
+LTE2NTYwMTUzOTAsLTExNjcyODkzOCwtMTQzMzA4NTE1NywtMj
+gyMDcwMTAsLTQ5NDIwNjE3MywxMjM2NDU0NjkwLC0xNjQzMjQw
+NjU2LC0yMDMwNjAwMTRdfQ==
 -->
