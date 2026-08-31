@@ -331,10 +331,11 @@ Com o **Git merge** você consegue **unir duas branchs diferentes em uma só bra
 ### O que pode ser feito junto dele?
 
 ## Git push
-O **Git push** tem como p
+O **Git push** tem como principal função **enviar os commits para um repositório remoto**, como o GitHub
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDEwODc1LDExNjg3MDcwODEsLTE2NT
-YwMTUzOTAsLTExNjcyODkzOCwtMTQzMzA4NTE1NywtMjgyMDcw
-MTAsLTQ5NDIwNjE3MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2LC
-0yMDMwNjAwMTRdfQ==
+eyJoaXN0b3J5IjpbNDA5NzY3NTM5LDE2ODQxMDg3NSwtMTY1Nj
+AxNTM5MCwtMTE2NzI4OTM4LC0xNDMzMDg1MTU3LC0yODIwNzAx
+MCwtNDk0MjA2MTczLDEyMzY0NTQ2OTAsLTE2NDMyNDA2NTYsLT
+IwMzA2MDAxNF19
 -->
