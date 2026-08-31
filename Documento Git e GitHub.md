@@ -337,13 +337,13 @@ Com isso a branch que você quer se juntará com a branch que você está no mom
 Caso ocorra algum conflito com o merge ao usar esse comando  o git retornará o repertório para o estado antes do comando git merge.
 
 ## Git remote
-
+Com o **Git remote** teremos a **conexão entre o repositório do nosso computador com o repositório remoto ou do GitHub**
 
 ## Git push
 O **Git push** tem como principal função **enviar os commits para um repositório remoto**, como o GitHub
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTEyMjgxNywtMTcwMjgxMzk5OSwtOD
+eyJoaXN0b3J5IjpbMTMxMTYwMDY2NiwtMTcwMjgxMzk5OSwtOD
 c4MDQ3NzE1LDMxNjY0MzM4NCw0NDc1MjQ1MDMsNDA5NzY3NTM5
 LDE2ODQxMDg3NSwtMTY1NjAxNTM5MCwtMTE2NzI4OTM4LC0xND
 MzMDg1MTU3LC0yODIwNzAxMCwtNDk0MjA2MTczLDEyMzY0NTQ2
