@@ -312,12 +312,17 @@ Aqui você irá criar uma branch e no mesmo instante trocará para ela, assim co
 ```
 git checkout código_do_commit
 ```
-Com isso você poderá checar o estado que o projeto se encontrava na época. Isso não afetará nada, ajudando a ter uma ideia das coisas que você mudou ou  
+Com isso você poderá checar o estado que o projeto se encontrava na época. Isso não afetará nada, ajudando a ter uma ideia das coisas que você mudou ou não. 
+
+#### Para restaurar arquivos:
+```
+git checkout -- main.py
+```
 
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjA3MDEwLDIwNzk0MTI4OTQsLTQ5ND
+eyJoaXN0b3J5IjpbMjAwODQzMjAwMywtMjgyMDcwMTAsLTQ5ND
 IwNjE3MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2LC0yMDMwNjAw
 MTRdfQ==
 -->
