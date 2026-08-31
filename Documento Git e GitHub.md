@@ -364,12 +364,12 @@ O **Git push** tem como principal função **enviar os commits para um repositó
 ```
 git push
 ```
-este será o comando que usará comumente para enviar as alterações dos seus commits para o GitHub, mas quando for fazer a primeira vez es
+este será o comando que usará comumente para enviar as alterações dos seus commits para o GitHub, mas quando for fazer a primeira vez esse deve ser 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTYyNzgwNyw3Mjg5MjI1MzcsLTE3MD
-I4MTM5OTksLTg3ODA0NzcxNSwzMTY2NDMzODQsNDQ3NTI0NTAz
-LDQwOTc2NzUzOSwxNjg0MTA4NzUsLTE2NTYwMTUzOTAsLTExNj
-cyODkzOCwtMTQzMzA4NTE1NywtMjgyMDcwMTAsLTQ5NDIwNjE3
-MywxMjM2NDU0NjkwLC0xNjQzMjQwNjU2LC0yMDMwNjAwMTRdfQ
-==
+eyJoaXN0b3J5IjpbMTgxMjY1MzM3MywxNzc1NjI3ODA3LDcyOD
+kyMjUzNywtMTcwMjgxMzk5OSwtODc4MDQ3NzE1LDMxNjY0MzM4
+NCw0NDc1MjQ1MDMsNDA5NzY3NTM5LDE2ODQxMDg3NSwtMTY1Nj
+AxNTM5MCwtMTE2NzI4OTM4LC0xNDMzMDg1MTU3LC0yODIwNzAx
+MCwtNDk0MjA2MTczLDEyMzY0NTQ2OTAsLTE2NDMyNDA2NTYsLT
+IwMzA2MDAxNF19
 -->
