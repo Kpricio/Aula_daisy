@@ -300,10 +300,14 @@ Dos comandos existentes esse é um dos mais antigos, mas que ainda pode ser usad
 ```
 git checkout branch_existente
 ```
-Com esse comando 
+Com esse comando você irá trocar para a branch já existente, exatamente como o git switch faria.
+
+#### Para criar e entrar em branch:
+
+
 
 ## Git push
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjQ1NDY5MCw5MzE3NTUyMjcsLTE2ND
-MyNDA2NTYsLTIwMzA2MDAxNF19
+eyJoaXN0b3J5IjpbMTg0MjE4MDYzNiwxMjM2NDU0NjkwLC0xNj
+QzMjQwNjU2LC0yMDMwNjAwMTRdfQ==
 -->
