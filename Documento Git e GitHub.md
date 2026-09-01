@@ -382,11 +382,12 @@ git pull
 ```
 Com o Git pull, você trará todas as alterações salvas no seu GitHub e atualizará o seu código no computador.
 Então em um computador você pode dar um git push, para por o seu código atual no GitHub e em outro computador dar um Git pull, para trazer esses códigos atualizados, para não ter que refazer tudo.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkwNTQ0MzcsOTEzNDI3OTgxLDE4MT
-I2NTMzNzMsNzI4OTIyNTM3LC0xNzAyODEzOTk5LC04NzgwNDc3
-MTUsMzE2NjQzMzg0LDQ0NzUyNDUwMyw0MDk3Njc1MzksMTY4ND
-EwODc1LC0xNjU2MDE1MzkwLC0xMTY3Mjg5MzgsLTE0MzMwODUx
-NTcsLTI4MjA3MDEwLC00OTQyMDYxNzMsMTIzNjQ1NDY5MCwtMT
-Y0MzI0MDY1NiwtMjAzMDYwMDE0XX0=
+eyJoaXN0b3J5IjpbMjAyODI3ODE1MywtMTIyOTA1NDQzNyw5MT
+M0Mjc5ODEsMTgxMjY1MzM3Myw3Mjg5MjI1MzcsLTE3MDI4MTM5
+OTksLTg3ODA0NzcxNSwzMTY2NDMzODQsNDQ3NTI0NTAzLDQwOT
+c2NzUzOSwxNjg0MTA4NzUsLTE2NTYwMTUzOTAsLTExNjcyODkz
+OCwtMTQzMzA4NTE1NywtMjgyMDcwMTAsLTQ5NDIwNjE3MywxMj
+M2NDU0NjkwLC0xNjQzMjQwNjU2LC0yMDMwNjAwMTRdfQ==
 -->
